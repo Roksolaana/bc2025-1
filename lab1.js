@@ -1,2 +1,2 @@
-const githubUsername = "RoksolanaSenkiv";  
+const githubUsername = "Roksolaana";  
 console.log("Hello, " + githubUsername);
